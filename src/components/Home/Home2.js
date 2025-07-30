@@ -19,37 +19,28 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm a passionate Full Stack Developer, specializing in the <b className="purple">MERN/MEAN Stack</b> , who loves turning ideas into reality through code. 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
-              <i>
+              <br />My journey into tech started with a deep curiosity for how things work, and it has evolved into a career of building dynamic and user-friendly web applications.
+              {/* <i>
                 <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+              </i> */}
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
+              I am fluent in <b className="purple">Javascript</b>  and proficient with the core MERN technologies: <b className="purple">React.js</b>  for building interactive <b className="purple">UIs, Node.js & Express.js</b> , for creating robust server-side logic, and <b className="purple">MongoDB</b> for database management.
+              {/* <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Blockchain.
                 </b>
-              </i>
+              </i> */}
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              To complement my web development skills, I am expanding my knowledge into <b className="purple">Python</b>  and exploring the world of <b className="purple">AI</b> . I am also learning to deploy and manage applications on modern cloud platforms like <b className="purple">AWS</b>  and <b className="purple">Azure</b>  to bring my projects to a global audience.<b className="purple"></b> 
+              {/*  */}
+              
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +58,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/saleethkasim"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +68,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/saleethkasim/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +88,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/saleeth_kasim/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
